@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Vanilla Psycasts Expanded</li>
+    </mods>	
+	<match Class="PatchOperationSequence">
+      <operations>
+        
+        <!--========== ADD ==========-->
+	<li Class="PatchOperationAdd">
+         <xpath>/Defs/AbilityDefs/Frostshaper[defName = "VPE_IceCrystal"]/durationTime</xpath>
+         <value>
+          <durationTime>999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999</durationTime>	 
+	 </value>		 
+        </li>
+        
+      </operations>	  
+    </match>		  
+  </Operation>
+</Patch>
