@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>[ISA] Eternal Ice crystal</name>
+<description>This mod makes the ice crystal from vanilla expanded psycasts</description>
+    <author>Bonfa6059</author>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+    <modDependencies>
+  <li>
+    <packageId>VanillaExpanded.VPsycastsE</packageId>
+    <displayName>Vanilla Psycasts Expanded</displayName>
+    <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2842502659</steamWorkshopUrl>
+    <downloadUrl>https://github.com/Vanilla-Expanded/VanillaPsycastsExpanded</downloadUrl>
+  </li>
+</modDependencies>
+  <loadAfter>
+	<li>VanillaExpanded.VPsycastsE</li>
+  </loadAfter>
+  <packageId>Bonfa6059.ISAEternalIceCrystal</packageId>
+</ModMetaData>
