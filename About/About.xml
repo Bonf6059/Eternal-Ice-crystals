@@ -17,5 +17,5 @@
   <loadAfter>
 	<li>VanillaExpanded.VPsycastsE</li>
   </loadAfter>
-  <packageId>Bonfa6059.ISAEternalIceCrystal</packageId>
+  <packageId>ISA.EternalIceCrystal.patch</packageId>
 </ModMetaData>
